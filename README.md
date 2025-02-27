@@ -1,4 +1,4 @@
-# fastapi_celery
+# Fastapi Celery
 Example of FastAPI with Celery
 
 Use Docker to start the application:
